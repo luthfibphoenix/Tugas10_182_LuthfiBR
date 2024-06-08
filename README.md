@@ -1,3 +1,8 @@
+![image](https://github.com/luthfibphoenix/Tugas10_182_LuthfiBR/assets/127088690/335d9751-75ab-4725-8a0e-4aec65d0a11a)
+![image](https://github.com/luthfibphoenix/Tugas10_182_LuthfiBR/assets/127088690/88475b57-04dd-45de-9887-f0324e6d9313)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
